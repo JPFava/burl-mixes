@@ -1,0 +1,35 @@
+{
+  "kind": "burl-plate-mix",
+  "version": 1,
+  "exportedAt": "2026-09-16T00:00:00.000Z",
+  "mixes": [
+    {
+      "id": "mix-walnut-burl",
+      "name": "Walnut burl",
+      "pattern": "burl",
+      "mixture": 0.72,
+      "weight": 0.66,
+      "scale": 0.52,
+      "swirl": 0.7,
+      "blend": 0.7,
+      "smear": 1,
+      "stops": [
+        { "id": "stop-a", "hex": "#2A1810", "t": 0 },
+        { "id": "stop-b", "hex": "#C4A06A", "t": 1 }
+      ],
+      "colorways": [
+        {
+          "id": "c-walnut",
+          "a": "#2A1810",
+          "b": "#C4A06A",
+          "stops": [
+            { "id": "stop-a", "hex": "#2A1810", "t": 0 },
+            { "id": "stop-b", "hex": "#C4A06A", "t": 1 }
+          ]
+        }
+      ],
+      "seeds": [23.6],
+      "updatedAt": 0
+    }
+  ]
+}
